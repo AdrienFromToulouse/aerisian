@@ -1,0 +1,12 @@
+@import "compass/reset";
+@import "compass/utilities/sprites";
+/* @import "../images/scores/\*.png"; */
+/* @include all-scores-sprites; */
+@import "compass/css3/text-shadow";
+
+@import "compass/css3/images";
+
+body{
+    @include background-image(image-url('../images/bkgrnd.jpg'));
+}	
+
