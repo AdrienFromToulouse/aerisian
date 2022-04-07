@@ -1,3 +1,1 @@
-yo
-ja
-ya
+test
